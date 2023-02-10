@@ -1,0 +1,11 @@
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/bin/Release/net5.0/Test.Shared.deps.json
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/bin/Release/net5.0/Test.Shared.dll
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/bin/Release/net5.0/ref/Test.Shared.dll
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/bin/Release/net5.0/Test.Shared.pdb
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Release/net5.0/Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Release/net5.0/Test.Shared.AssemblyInfoInputs.cache
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Release/net5.0/Test.Shared.AssemblyInfo.cs
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Release/net5.0/Test.Shared.csproj.CoreCompileInputs.cache
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Release/net5.0/Test.Shared.dll
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Release/net5.0/ref/Test.Shared.dll
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Release/net5.0/Test.Shared.pdb

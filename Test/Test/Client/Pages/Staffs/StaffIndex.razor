@@ -1,0 +1,79 @@
+﻿@page "/staffs/"
+@inject HttpClient _client
+@inject IJSRuntime js
+@attribute [Authorize]
+@inject HttpInterceptorService _interceptor
+@implements IDisposable
+
+<h3 class="card-title">Staffs</h3>
+<br />
+
+<a href="/staffs/create" class="btn btn-secondary">
+    <span class="oi oi-plus"></span>
+    Add New Staff
+</a>
+
+<br />
+<br />
+
+@if (Staffs == null)
+{
+    <div class="alert alert-info">Loading Staffs...</div>
+}
+else
+{
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Staff in Staffs)
+            {
+                <tr>
+                    <td>@Staff.Name</td>
+                    <td>
+                        <a href="/Staffs/view/@Staff.Id" class="btn btn-primary">
+                            <span class="oi oi-book"></span>
+                        </a>
+                        <a href="/Staffs/edit/@Staff.Id" class="btn btn-warning">
+                            <span class="oi oi-pencil"></span>
+                        </a>
+                        <button class="btn btn-danger" @onclick="@(()=>Delete(Staff.Id))">
+                            <span class="oi oi-delete"></span>
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+
+    private List<Staff> Staffs;
+
+    protected async override Task OnInitializedAsync()
+    {
+        _interceptor.MonitorEvent();
+        Staffs = await _client.GetFromJsonAsync<List<Staff>>($"{Endpoint.StaffsEndpoint}");
+    }
+
+    async Task Delete(int StaffId)
+    {
+        var Staff = Staffs.First(q => q.Id == StaffId);
+        var confirm = await js.InvokeAsync<bool>("confirm", $"Do you want to delete {Staff.Name}?");
+        if (confirm)
+        {
+            await _client.DeleteAsync($"{Endpoint.StaffsEndpoint}/{StaffId}");
+            await OnInitializedAsync();
+        }
+
+    }
+
+    public void Dispose()
+    {
+        _interceptor.DisposeEvent();
+    }
+}

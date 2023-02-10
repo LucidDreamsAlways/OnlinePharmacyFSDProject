@@ -1,0 +1,110 @@
+﻿@page "/Orders/create/"
+@inject HttpClient _client
+@inject NavigationManager _navManager
+
+
+<h3 class="card-title">Add New Order</h3>
+<hr />
+<br />
+
+<EditForm Model="@order" OnValidSubmit="CreateOrder">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label>Product: </label>
+        <div>
+            <InputSelect @bind-Value="@order.ProductId" class="form-control">
+                <option value=""> Select Type </option>
+                @if (Products != null)
+                {
+                    @foreach (var product in Products)
+                    {
+                        <option value="@product.Id">@product.Name</option>
+                    }
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => order.ProductId)" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>Customer: </label>
+        <div>
+            <InputSelect @bind-Value="@order.CustomerId" class="form-control">
+                <option value=""> Select Customer </option>
+                @if (Customers != null)
+                {
+                    @foreach (var customer in Customers)
+                    {
+                        <option value="@customer.Id">@customer.Name</option>
+                    }
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => order.ProductId)" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>Quantity: </label>
+        <div>
+            <InputSelect @bind-Value="@order.Order_Qty" class="form-control">
+                <option value=""> Select Quantity </option>
+                @if (Customers != null)
+                {
+                    @foreach (var qty in Quantity)
+                    {
+                        <option value="@qty">@qty</option>
+                    }
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => order.Order_Qty)" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>Payment Type: </label>
+        <div>
+            <InputSelect @bind-Value="@order.Payment_Type" class="form-control">
+                <option value=""> Select Payment Type </option>
+                @foreach (var type in pay_type)
+                {
+                    <option value="@type">@type</option>
+                }
+            </InputSelect>
+            <ValidationMessage For="@(() => order.Payment_Type)" />
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success btn-block">
+        Create Order
+    </button>
+
+    <Test.Client.Components.BackToList Target="orders"/>
+</EditForm>
+
+@code {
+
+    Order order = new Order();
+    Customer customer = new Customer();
+
+    private IList<Product> Products;
+    private IList<Customer> Customers;
+
+    int[] Quantity = new int[] { 1,2,3,4,5,6,7,8,9,10 };
+    string[] pay_type = new string[] { "Paypal", "VISA", "PayNow", "PayLah" };
+
+
+    protected async override Task OnInitializedAsync()
+    {
+        Products = await _client.GetFromJsonAsync<List<Product>>($"{Endpoint.ProductsEndpoint}");
+        Customers = await _client.GetFromJsonAsync<List<Customer>>($"{Endpoint.CustomersEndpoint}");
+    }
+
+    public async Task CreateOrder()
+    {
+        await _client.PostAsJsonAsync(Endpoint.OrdersEndpoint, order);
+        _navManager.NavigateTo("/orders");
+    }
+}
+

@@ -1,0 +1,202 @@
+﻿@page "/"
+
+
+<center>
+
+    @*<link rel="stylesheet" href="~/css/KiloFont.css" />*@
+
+    <style>
+
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+            background-image: url('background.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-position: center;
+            font-family: sans-serif;
+        }
+
+        .container {
+            margin: 0 auto;
+            width: 100%;
+            background-color: #f7f7f7;
+            padding: 0px;
+            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+            margin-top: 10%;
+        }
+
+        .products-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .product {
+            width: 30%;
+            margin: 10px;
+            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            position: relative;
+            cursor: pointer;
+        }
+
+            .product img {
+                width: 50%;
+                margin: 0 auto;
+                display: block;
+            }
+
+            .product h3 {
+                font-size: 17px;
+                font-weight: bold;
+                margin-top: 10px;
+            }
+
+            .product p {
+                margin-top: 5px;
+                font-size: 12px;
+                color: #999;
+            }
+
+            .product .arrow {
+                position: absolute;
+                right: 20px;
+                top: 50%;
+                transform: translateY(-50%);
+                background-color: #f7f7f7;
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                text-align: center;
+                line-height: 30px;
+                font-size: 20px;
+                color: #999;
+                cursor: pointer;
+            }
+
+        .categories-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .category {
+            width: 15%;
+            margin: 10px;
+            box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+            background-color: #f7f7f7;
+            padding: 20px;
+            text-align: center;
+            position: relative;
+            cursor: pointer;
+        }
+
+            .category img {
+                width: 50%;
+                margin: 0 auto;
+                display: block;
+            }
+
+            .category h3 {
+                font-size: 17px;
+                font-weight: bold;
+                margin-top: 10px;
+            }
+        h1 {
+            @* Chnage font here for the font page*@
+            font-family: 'Times New Roman';
+            font-size: 100px ;
+            color: rgba(222,139,148,255);
+            border: 1px;
+            background-color: transparent;
+            padding: 10px;
+        }
+
+        a {
+            display: inline-block;
+            transition: all 0.5s ease-in-out;
+        }
+
+        a:hover {
+            transform: scale(1.1);
+        }
+
+    </style>
+
+
+    <div class="container" style="width: 100% ; margin-top: -20px">
+        <h1 style="text-align: center;">Welcome to Welp Medicine</h1>
+        <hr>
+        <h2 style="text-align: center;">Our Products</h2>
+        <img src="/images/products/banner.png" width="900" />
+        <div class="products-container">
+            <div class="product">
+                <a href="products/1/">
+                    <img src="/images/ex3.png">
+                    <h3>Product 1</h3>
+                    <p>Description of product 1</p>
+                </a>
+                <div class="arrow">&#10095;</div>
+            </div>
+            <div class="product">
+                <a href="products/2/">
+                    <img src="/images/ex1.png">
+                    <h3>Product 2</h3>
+                    <p>Description of product 2</p>
+                </a>
+                <div class="arrow">&#10095;</div>
+            </div>
+            <div class="product">
+                <a href="products/3/">
+                    <img src="/images/ex2.png">
+                    <h3>Product 3</h3>
+                    <p>Description of product 3</p>
+                </a>
+                <div class="arrow">&#10095;</div>
+            </div>
+        </div>
+        <hr>
+        <h2 style="text-align: center;">Categories</h2>
+        <div class="categories-container">
+            <div class="category">
+                <a href="products">
+                    <img src="/images/ex4.png">
+                    <h3>Category 1</h3>
+                </a>
+            </div>
+            <div class="category">
+                <a href="products">
+                    <img src="/images/ex5.png">
+                    <h3>Category 2</h3>
+                </a>
+            </div>
+            <div class="category">
+                <a href="products">
+                    <img src="/images/ex6.png">
+                    <h3>Category 3</h3>
+                </a>
+            </div>
+        </div>
+        <hr>
+        <h2 style="text-align: center;">Contact Us</h2>
+        <p style="text-align: center;">
+            Address: #02-359, Somewhere in singapore 836539<br>
+            Phone: 87364758<br>
+            Email: info@welpmedicine.com
+        </p>
+    </div>
+
+</center>
+
+<SurveyPrompt Title="How is Blazor working for you?" />

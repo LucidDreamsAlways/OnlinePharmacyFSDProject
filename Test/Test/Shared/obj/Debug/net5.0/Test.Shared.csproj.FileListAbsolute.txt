@@ -1,0 +1,84 @@
+C:/Users/nicho/source/repos/Test/Test/Shared/bin/Debug/net5.0/Test.Shared.deps.json
+C:/Users/nicho/source/repos/Test/Test/Shared/bin/Debug/net5.0/Test.Shared.dll
+C:/Users/nicho/source/repos/Test/Test/Shared/bin/Debug/net5.0/ref/Test.Shared.dll
+C:/Users/nicho/source/repos/Test/Test/Shared/bin/Debug/net5.0/Test.Shared.pdb
+C:/Users/nicho/source/repos/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.csproj.AssemblyReference.cache
+C:/Users/nicho/source/repos/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nicho/source/repos/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.AssemblyInfoInputs.cache
+C:/Users/nicho/source/repos/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.AssemblyInfo.cs
+C:/Users/nicho/source/repos/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.csproj.CoreCompileInputs.cache
+C:/Users/nicho/source/repos/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.dll
+C:/Users/nicho/source/repos/Test/Test/Shared/obj/Debug/net5.0/ref/Test.Shared.dll
+C:/Users/nicho/source/repos/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.pdb
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/bin/Debug/net5.0/Test.Shared.deps.json
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/bin/Debug/net5.0/Test.Shared.dll
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/bin/Debug/net5.0/ref/Test.Shared.dll
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/bin/Debug/net5.0/Test.Shared.pdb
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.csproj.AssemblyReference.cache
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.AssemblyInfoInputs.cache
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.AssemblyInfo.cs
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.csproj.CoreCompileInputs.cache
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.dll
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Debug/net5.0/ref/Test.Shared.dll
+/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/Debug/net5.0/Test.Shared.pdb
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.deps.json
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.dll
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.pdb
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.AssemblyReference.cache
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfoInputs.cache
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfo.cs
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.dll
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.pdb
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.deps.json
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.dll
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.pdb
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.AssemblyReference.cache
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfoInputs.cache
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfo.cs
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.dll
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.pdb
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.deps.json
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.dll
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.pdb
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.AssemblyReference.cache
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfoInputs.cache
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfo.cs
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.dll
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\Shakh\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.pdb
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.deps.json
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.dll
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.pdb
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.AssemblyReference.cache
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfoInputs.cache
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfo.cs
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.dll
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\nicho\Source\Repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.pdb
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.deps.json
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.dll
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.pdb
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.AssemblyReference.cache
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfoInputs.cache
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfo.cs
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.dll
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\Nagul\source\repos\LucidDreamsAlways\FSD-Project\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.pdb
